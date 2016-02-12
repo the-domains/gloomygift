@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[gloomygift]]></title>
         <description><![CDATA[gloomygift]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gloomygift/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 16:42:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 12 Feb 2016 16:43:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gloomygift/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f11547f7-a5c4-4b67-a3df-8a69b719ec08.jpg">]]></description>
+            <link>https://thegrid.ai/gloomygift/b5e1a1aa-cc14-44fc-8969-df7eb30c0f1d/index.html</link>
+            <guid isPermaLink="false">b5e1a1aa-cc14-44fc-8969-df7eb30c0f1d</guid>
+            <pubDate>Fri, 12 Feb 2016 16:42:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5563688-92a0-4f17-89f4-3e90d840f90e.jpg">]]></description>
-            <link>undefined9eb89cde-5ab5-4ba2-af06-ded7205c4aab/index.html</link>
+            <link>https://thegrid.ai/gloomygift/9eb89cde-5ab5-4ba2-af06-ded7205c4aab/index.html</link>
             <guid isPermaLink="false">9eb89cde-5ab5-4ba2-af06-ded7205c4aab</guid>
             <pubDate>Fri, 12 Feb 2016 16:42:41 GMT</pubDate>
         </item>
