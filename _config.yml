@@ -1,7 +1,7 @@
 name: gloomygift
 favicon: null
 layout_spectrum: 0.9766919657122344
-typography_spectrum: 0.10055282223038375
+typography_spectrum: 0.48248
 title: 'art , inspiration and working progress'
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.4426969215273857
+    - '#f8fcff'
+    - '#1a1d26'
+    - '#f1c3b4'
+    - '#6c4138'
+    - '#a95b45'
+  brandStrength: 0.5
   lightness: 0.2656546055804938
   saturation: 0.1678885198198259
   rhythmicContrast: 0.6941042945254594
