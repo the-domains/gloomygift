@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Art , inspiration and working progress]]></title>
         <description><![CDATA[Art , inspiration and working progress]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gloomygift/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 17:27:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 12 Feb 2016 17:28:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gloomygift/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3014cfd-7001-492d-8728-04f19f50a5ba.jpg">]]></description>
+            <link>https://thegrid.ai/gloomygift/291c8eb6-5193-4ca9-851d-7e178e83ce30/index.html</link>
+            <guid isPermaLink="false">291c8eb6-5193-4ca9-851d-7e178e83ce30</guid>
+            <pubDate>Fri, 12 Feb 2016 17:27:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3736dc6-415b-48a4-9fab-d8fdcf8f8d56.jpg">]]></description>
-            <link>undefined8359c25d-a335-4310-8757-d2d7496ea717/index.html</link>
+            <link>https://thegrid.ai/gloomygift/8359c25d-a335-4310-8757-d2d7496ea717/index.html</link>
             <guid isPermaLink="false">8359c25d-a335-4310-8757-d2d7496ea717</guid>
             <pubDate>Fri, 12 Feb 2016 17:27:26 GMT</pubDate>
         </item>
